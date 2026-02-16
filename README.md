@@ -6,7 +6,7 @@ UK based developer working in fullstack in E-Learning.
 ## Langs I Use
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="html5" src="https://img.shields.io/badge/-Swift-E34F26?style=flat-square&logo=swift   &logoColor=white" />
+    <img alt="swift" src="https://img.shields.io/badge/-Swift-E34F26?style=flat-square&logo=swift&logoColor=white" />
     <img alt="dotnet core" src="https://img.shields.io/badge/-dotnet CORE-6d287e?style=flat-square&logo=dotnet&logoColor=white" />
         <img alt="unity" src="https://img.shields.io/badge/-Unity-1f1f1f?style=flat-square&logo=unity&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
